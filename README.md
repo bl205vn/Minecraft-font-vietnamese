@@ -5,7 +5,7 @@ Bản Việt hóa (bổ sung bộ dấu tiếng Việt) của font **Minecraft T
 ## Giới thiệu
 
 - **Tên font:** LF Minecraft Ten
-- **Dựa trên:** [Minecraft Ten](https://fontstruct.com/fontstructions/show/2552125/minecraft-ten-5) — thiết kế bởi [Fardilizer](https://fontstruct.com/fontstructors/show/2261315/stinkyfard)
+- **Dựa trên:** [Minecraft Ten](https://fontstruct.com/fontstructions/show/2552125/minecraft-ten-5) — thiết kế bởi [Fardilizer](https://fontstruct.com/fontstructors/2261315/stinkyfard)
 - **Việt hóa bởi:** [Góc Việt hóa font • lengnef](https://www.facebook.com/lengnef/)
 - **Thay đổi so với bản gốc:** bổ sung bộ dấu tiếng Việt (thanh điệu + nguyên âm có dấu), không chỉnh sửa bộ glyph Latin gốc.
 - **Phiên bản:** 1.0
@@ -26,5 +26,5 @@ Tóm tắt nhanh (không thay thế văn bản license đầy đủ):
 
 ## Ghi công
 
-- Thiết kế gốc: **Fardilizer** — [FontStruct](https://fontstruct.com/fontstructors/show/2261315/stinkyfard)
+- Thiết kế gốc: **Fardilizer** — [FontStruct](https://fontstruct.com/fontstructors/2261315/stinkyfard)
 - Việt hóa (thêm dấu tiếng Việt): **Góc Việt hóa font • lengnef** — [Facebook](https://www.facebook.com/lengnef/)
